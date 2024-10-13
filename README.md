@@ -4,7 +4,7 @@
 👤 - My name is Killian.<br>
 🏠 - I'm living in France.<br>
 🗣 - I can speak both French and English.<br>
-👨‍🎓 - I'm a student in computer science at IUT of Fontainebleau (UPEC).
+👨‍🎓 - I'm a student in computer science at IUT of Sénart-Fontainebleau (UPEC).
 
 ## My GitHub stats
 <div align='center'> 
