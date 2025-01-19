@@ -7,14 +7,14 @@
 👨‍🎓 - I'm a student in computer science at IUT of Sénart-Fontainebleau (UPEC).
 
 ## My GitHub stats
-<div align='center'> 
+<p align='center'> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=killianpws" />
+    <img src="https://github-readme-stats.vercel.app/api?username=killianpws" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killianpws&layout=compact&langs_count=8&card_width=320" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killianpws&layout=compact&langs_count=8&card_width=320" />
   </a>
-</div>
+</p>
 
 ## Credits
 [denvercoder1/readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg)<br>
